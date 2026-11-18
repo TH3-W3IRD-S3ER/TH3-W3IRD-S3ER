@@ -1,7 +1,7 @@
-# Hi, I'm Ibrahim Temiloluwa Feranmi 👋
+# Hi, I'm Feranmi 👋
 
-**Aspiring Penetration Tester | Offensive Security Learner | Python Tinkerer**
-📍 Akure, Nigeria · ✉️ [the.weird.seer@proton.me]
+**Ibrahim Temiloluwa Feranmi** · Aspiring Penetration Tester · Offensive Security Learner · Python Tinkerer
+📍 Akure, Nigeria · ✉️ the.weird.seer@proton.me
 
 ---
 
@@ -16,7 +16,7 @@ I learn by doing, and I document everything. Every lab I complete becomes a writ
 - 🔬 Rebuilding my foundations: networking, Linux, and packet analysis
 - 🐍 Writing small Python security tools (scanners, banner grabbers)
 - 📝 Producing one write-up per lab, following a consistent report template
-- 🎯 Working toward: [An entry-level pentest role]
+- 🎯 Goal: an entry-level penetration testing role
 
 ## Skills (honest levels)
 
@@ -33,9 +33,9 @@ I learn by doing, and I document everything. Every lab I complete becomes a writ
 
 | Project | What it shows |
 |---|---|
-| [`pentest-writeups`](#) | Lab reports with methodology, evidence, and remediation |
-| [`security-tools`](#) | Python tools I wrote, each with a README and usage notes |
-| [`report-templates`](#) | My reusable pentest report template |
+| [`pentest-writeups`](https://github.com/TH3-W3IRD-S3ER/pentest-writeups) | Lab reports with methodology, evidence, and remediation |
+| [`security-tools`](https://github.com/TH3-W3IRD-S3ER/security-tools) | Python tools I wrote, each with a README and usage notes |
+| [`report-templates`](https://github.com/TH3-W3IRD-S3ER/report-templates) | My reusable pentest report template |
 
 ## How I work
 
@@ -45,4 +45,4 @@ I learn by doing, and I document everything. Every lab I complete becomes a writ
 
 ## Contact
 
-Open to junior security roles, internships, and mentorship. Reach me at [the.weird.seer@proton.me] 
+Open to junior security roles, internships, and mentorship. Reach me at the.weird.seer@proton.me
